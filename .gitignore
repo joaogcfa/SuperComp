@@ -1,0 +1,15 @@
+.DS_Store
+.vscode
+a.out
+docs/
+projetos-alunos/
+code/
+*.pptx
+env-supercomp/
+*-resposta*
+fontes-*
+callgrind.*
+gmon.out
+Icon?
+material/aulas/01-introducao/legenda*
+Icon
