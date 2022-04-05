@@ -22,7 +22,7 @@ int main()
 {
     // Randomizacao
     std::default_random_engine generator;
-    generator.seed(15);
+    generator.seed(10);
     std::uniform_real_distribution<double> distribution(0.0, 1.0);
 
     int n = 0;
